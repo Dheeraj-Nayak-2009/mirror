@@ -1,0 +1,7 @@
+{
+  "name": "mirror",
+  "description": "A web application that displays your camera feed with a realistic, interactive WebGL water ripple effect overlaid. Move your mouse and click to create ripples on the camera view.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
